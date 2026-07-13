@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Rambhu Singh</h1>
+<h1 align="center">Hi , I'm Rambhu Singh</h1>
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?size=24&color=00FFB2&center=true&vCenter=true&width=750&lines=Backend+Engineer+%7C+Java+%7C+Spring+Boot;Building+Scalable+Fintech+Systems;Optimizing+Performance+%7C+Low+Latency+APIs;Microservices+%7C+AWS+%7C+System+Design" />
@@ -7,35 +7,35 @@
 ---
 
 <p align="center">
-💻 Backend Engineer crafting systems that handle <b>real users, real money, and real pressure</b>
+ Backend Engineer crafting systems that handle <b>real users, real money, and real pressure</b>
 </p>
 
 ---
 
-## 🧠 Engineering Philosophy
-> 💭 "Write code that's clean enough to read at 3am and fast enough to not need to."  
-> ⚡ "Performance is not a feature — it's a responsibility."  
-> 🔐 "Secure systems aren't optional when money is involved."
+##  Engineering Philosophy
+>  "Write code that's clean enough to read at 3am and fast enough to not need to."  
+>  "Performance is not a feature — it's a responsibility."  
+>  "Secure systems aren't optional when money is involved."
 
 ---
 
-## ⚡ About Me
-- 💻 Backend Developer (Java, Spring Boot, Microservices)  
-- 🚀 Improved API latency by **74%**  
-- 📈 Increased transaction reliability by **88%**  
-- 🔐 Built secure APIs for fintech (UPI & banking)  
-- ⚙️ Focus on **scalable, high-performance architecture**
+## About Me
+-  Backend Developer (Java, Spring Boot, Microservices)  
+-  Improved API latency by **74%**  
+-  Increased transaction reliability by **88%**  
+-  Built secure APIs for fintech (UPI & banking)  
+-  Focus on **scalable, high-performance architecture**
 
 ---
 
-## 🧩 Tech Stack
+## Tech Stack
 <p align="center">
 <img src="https://skillicons.dev/icons?i=java,spring,aws,docker,mysql,mongodb,git,github,python,fastapi,react" />
 </p>
 
 ---
 
-## 📊 GitHub Stats
+##  GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=RambhuSingh1819&show_icons=true&theme=radical&hide_border=true" height="165"/>
@@ -47,54 +47,54 @@
 
 ---
 
-## 🧠 Top Languages
+##  Top Languages
 <p align="center">
   <img height="160em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=RambhuSingh1819&layout=compact&theme=radical&hide_border=true"/>
 </p>
 
 ---
 
-## 🏆 LeetCode Stats
+## LeetCode Stats
 <p align="center">
   <img src="https://leetcard.jacoblin.cool/RambhuSingh?theme=dark&ext=heatmap" />
 </p>
 
 ---
 
-## 🚀 Featured Projects
+## Featured Projects
 
-### 🍔 HungryHub – Food Delivery Platform
-- 🔐 JWT Authentication & Role-based Access  
-- ⚙️ Scalable Spring Boot backend  
-- 🚀 Improved API speed by **89%**  
-- 🧩 Tech: Spring Boot, React, MySQL  
-
----
-
-### 🌾 AI Crop Recommendation System
-- 🤖 ML model with **60–75% accuracy**  
-- ⚡ FastAPI backend for predictions  
-- 📊 Dashboard with insights  
-- 🧩 Tech: Python, TensorFlow, AWS  
+###  HungryHub – Food Delivery Platform
+- JWT Authentication & Role-based Access  
+- Scalable Spring Boot backend  
+- Improved API speed by **89%**  
+- Tech: Spring Boot, React, MySQL  
 
 ---
 
-### 💸 Fintech Payment APIs
-- 📈 Improved reliability by **88%**  
-- ⚡ Reduced latency by **74%**  
-- 🔐 Secure UPI & banking APIs  
-- 🧩 Tech: Java, Spring Boot  
+### AI Crop Recommendation System
+- ML model with **60–75% accuracy**  
+- FastAPI backend for predictions  
+- Dashboard with insights  
+- Tech: Python, TensorFlow, AWS  
 
 ---
 
-## 🐍 Contribution Snake
+### Fintech Payment APIs
+- Improved reliability by **88%**  
+- Reduced latency by **74%**  
+- Secure UPI & banking APIs  
+- Tech: Java, Spring Boot  
+
+---
+
+## Contribution Snake
 <p align="center">
   <img src="https://raw.githubusercontent.com/RambhuSingh1819/RambhuSingh1819/output/github-contribution-grid-snake.svg"/>
 </p>
 
 ---
 
-## 📬 Connect With Me
+## Connect With Me
 
 <p align="center">
 
