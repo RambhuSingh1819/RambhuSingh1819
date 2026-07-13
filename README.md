@@ -115,5 +115,5 @@
 ---
 
 <p align="center">
-⚡ <i>Building systems that scale, perform, and never break.</i>
+<i>Building systems that scale, perform, and never break.</i>
 </p>
