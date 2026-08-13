@@ -38,7 +38,7 @@
 ##  GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RambhuSingh1819&show_icons=true&theme=radical&hide_border=true" height="165"/>
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=RambhuSingh1819&show_icons=true&theme=radical&hide_border=true" height="165"/>
 </p>
 
 <p align="center">
@@ -49,7 +49,7 @@
 
 ##  Top Languages
 <p align="center">
-  <img height="160em" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=RambhuSingh1819&layout=compact&theme=radical&hide_border=true"/>
+  <img height="160em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=RambhuSingh1819&layout=compact&theme=radical&hide_border=true"/>
 </p>
 
 ---
