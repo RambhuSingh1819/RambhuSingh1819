@@ -41,10 +41,6 @@
   <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=RambhuSingh1819&show_icons=true&theme=radical&hide_border=true" height="165"/>
 </p>
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=RambhuSingh1819&theme=radical&hide_border=true" height="165"/>
-</p>
-
 ---
 
 ##  Top Languages
